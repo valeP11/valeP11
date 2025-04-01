@@ -9,7 +9,7 @@ I'm Valentina Pederzoli, a PhD student in Mathematical Models and Methods for En
 - 👧: Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 
 <br />
-<b> Some Projects </b> 
+🗞️<b> Publications </b> 
 
 - Check out our preprint: [A coupled mathematical and numerical model for protein spreading and tissue atrophy applied to Alzheimer's disease](https://doi.org/10.48550/arXiv.2412.19661)
 <br />
